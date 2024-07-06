@@ -1,4 +1,4 @@
-<img src="GeneratedByAI.png" width="200" height="200" alt="Dimple Francis">
+<img src="GeneratedByAI.png"  width="100%" alt="Dimple Francis">
 
 # Welcome to My GitHub Profile! 👋
 

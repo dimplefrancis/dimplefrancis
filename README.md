@@ -1,4 +1,9 @@
+<img src="GeneratedByAI.png" width="200" height="200" alt="Dimple Francis">
+
 # Welcome to My GitHub Profile! 👋
+
+## About Me
+AI and Data Technologist
 
 ## Recent Projects
 

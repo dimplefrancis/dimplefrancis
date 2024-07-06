@@ -11,7 +11,7 @@ A game developed with Claude 3.5 Sonnet, Anthropic's AI model.
 ### 2. [California House Price Prediction](https://github.com/dimplefrancis/California-House-Price-Prediction) 🏠
 A project developed for the Oxford Hackathon in June 2024. This application predicts house prices in California using machine learning techniques.
 
-- **Key Feature:** Deployed using Streamlit for an interactive user experience
+- **Application:** [The California Dream Real Estate](https://housevalpredictor.streamlit.app/)Deployed using Streamlit for an interactive user experience
 
 ### 3. [Waste Cost Prediction in Manufacturing](https://github.com/dimplefrancis/Waste-Cost-Prediction) 🏭
 This project implements a machine learning model to predict waste costs in manufacturing processes. By analyzing various production factors, the model aims to help industries optimize their processes and reduce waste-related expenses.

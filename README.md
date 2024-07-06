@@ -13,6 +13,7 @@ A project developed for the Oxford Hackathon in June 2024. This application pred
 
 - **Application:** [The California Dream Real Estate](https://housevalpredictor.streamlit.app/)
 - Deployed using Streamlit for an interactive user experience
+- Two notebooks have been added. One dataset utilizes the Ocean Proximity feature. 
 
 ### 3. [Waste Cost Prediction in Manufacturing](https://github.com/dimplefrancis/Waste-Cost-Prediction) 🏭
 This project implements a machine learning model to predict waste costs in manufacturing processes. By analyzing various production factors, the model aims to help industries optimize their processes and reduce waste-related expenses.

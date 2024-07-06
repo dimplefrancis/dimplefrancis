@@ -20,5 +20,3 @@ This project implements a machine learning model to predict waste costs in manuf
 
 ## Get in Touch
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration ideas!
-
-[Add your preferred contact method or social media links here]

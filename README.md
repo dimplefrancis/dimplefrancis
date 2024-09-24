@@ -11,7 +11,6 @@ AI and Data Technologist
 The Wimblechat(Wimbledon 2024 Chatbot) is an AI-powered application that provides information and answers questions about the Wimbledon tennis tournament based on the Ticket Holders Handbook 2024.
 
 - **Read about it:** [Enhancing AI Chatbots with Graph-based RAG: A Case Study of WimbleChat](https://medium.com/@dimplefrancis/enhancing-ai-chatbots-with-graph-based-rag-a-case-study-of-wimblechat-dd922d46a0cb)
-- **Application:** [Wimblechat](http://wimbledonchatbot.uksouth.azurecontainer.io:8501/)
 
 ###  [Hungry Penguin](https://github.com/dimplefrancis/hungry-penguin) 🐧
 A game developed with Claude 3.5 Sonnet, Anthropic's AI model.

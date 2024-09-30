@@ -8,7 +8,7 @@ AI and Data Technologist
 ## Recent Projects
 
 ### [Wimblechat](https://github.com/dimplefrancis/rag-graph-chatbot)
-The Wimblechat(Wimbledon 2024 Chatbot) is an AI-powered application that provides information and answers questions about the Wimbledon tennis tournament based on the Ticket Holders Handbook 2024.
+The Wimblechat(Wimbledon 2024 Chatbot) is an AI-powered application that provides information and answers questions about the Wimbledon tennis tournament based on the Ticket Holders Handbook 2024. This works better on Microsoft Edge. On Google Chrome, need to refresh multipls times, sometimes also encounter - 'unable to retreive routing information' error and this disappears on refresh or opening the app in a new tab.
 
 - **Application:** [WIMBLECHAT](http://wimbledonchatbot-581856991.uksouth.azurecontainer.io:8501/)
 - **Read about it:** [Enhancing AI Chatbots with Graph-based RAG: A Case Study of WimbleChat](https://medium.com/@dimplefrancis/enhancing-ai-chatbots-with-graph-based-rag-a-case-study-of-wimblechat-dd922d46a0cb)

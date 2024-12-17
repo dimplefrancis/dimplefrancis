@@ -8,6 +8,7 @@ AI and Data Technologist
 ## Recent Projects
 
 ### [PrisonPal](https://github.com/dimplefrancis/prisonpal)
+An intelligent assistant that streamlines access to prison visiting information in England and Wales. Built with advanced AI technology, this tool helps visitors understand requirements, policies, and procedures by providing accurate, sourced information from official documents.
 
 ### [Wimblechat](https://github.com/dimplefrancis/rag-graph-chatbot)
 The Wimblechat(Wimbledon 2024 Chatbot) is an AI-powered application that provides information and answers questions about the Wimbledon tennis tournament based on the Ticket Holders Handbook 2024. This works better on Microsoft Edge. On Google Chrome, need to refresh multipls times, sometimes also encounter - 'unable to retreive routing information' error and this disappears on refresh or opening the app in a new tab.
